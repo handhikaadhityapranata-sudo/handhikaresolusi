@@ -2,3 +2,7 @@
 - ini adalah kontent
 - bajigur
 - mggg
+- vue
+- Laravel
+- pyhton
+- React
