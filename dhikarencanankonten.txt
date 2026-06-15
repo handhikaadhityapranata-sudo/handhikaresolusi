@@ -3,4 +3,7 @@
 - bajigur
 - mggg
 -angular
--react
+- vue
+- Laravel
+- pyhton
+- React
