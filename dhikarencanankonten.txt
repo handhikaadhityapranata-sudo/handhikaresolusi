@@ -5,3 +5,4 @@
 - vue
 - Laravel
 - pyhton
+- React
