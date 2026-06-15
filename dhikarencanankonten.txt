@@ -2,6 +2,7 @@
 - ini adalah kontent
 - bajigur
 - mggg
+-angular
 - vue
 - Laravel
 - pyhton
