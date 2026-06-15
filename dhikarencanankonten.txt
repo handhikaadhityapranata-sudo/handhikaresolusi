@@ -2,3 +2,5 @@
 - ini adalah kontent
 - bajigur
 - mggg
+-angular
+-react
